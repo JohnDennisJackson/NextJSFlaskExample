@@ -10,11 +10,11 @@
 ## Start the API
 ### Navigate to 'API' folder
 ### Run flask --app hello run
-### Verify in the browser that you are running @ localhost:5000/hello
+### Verify in the browser that you are running @ 'localhost:5000/api/hello'
 
 ## Start the UI
 ### Navigate to 'UI' folder
 ### Run 'npm run build'
 ### Run 'npm run start'
-## Should be running on locahost:3000
+### Verify in the browser that you are running @ 'localhost:3000/hello'
 
