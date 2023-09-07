@@ -6,7 +6,7 @@
 3. Run 'conda env create -f conda_env.yml'
 4. Run 'conda activate NextJSFlask'
 
-Your prompt should now be prefixed with (NextJSFlask)
+Your prompt should now be prefixed with (NextJSFlaskEnv)
 
 ## Start the API
 1. Navigate to 'API' folder
